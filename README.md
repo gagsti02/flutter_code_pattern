@@ -1,6 +1,6 @@
 # Flutter MVVM Code Pattern Using Provider
 
-#Author
+# Author
 Jay-ar Crueta
 
 ## Introduction
