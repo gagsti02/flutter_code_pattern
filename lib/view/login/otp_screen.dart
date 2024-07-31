@@ -13,10 +13,10 @@ class OtpScreen extends StatelessWidget {
     var loginViewModel = context.read<LoginViewModel>();
     return Scaffold(
       appBar: AppBar(
-        backgroundColor: const Color.fromARGB(255, 255, 199, 33),
+        backgroundColor: Colors.white,
       ),
       body: Container(
-        color: const Color.fromARGB(255, 255, 199, 33),
+        color: Colors.white,
         child: Center(
           child: Padding(
             padding: const EdgeInsets.all(50),

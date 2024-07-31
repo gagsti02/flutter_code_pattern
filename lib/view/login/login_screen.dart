@@ -13,7 +13,7 @@ class LoginScreen extends StatelessWidget {
     return Scaffold(
         resizeToAvoidBottomInset: false,
         body: Container(
-          color: const Color.fromARGB(255, 255, 199, 33),
+          color: Colors.white,
           child: Center(
             child: Padding(
               padding: const EdgeInsets.all(50),
